@@ -1,0 +1,92 @@
+[
+  {
+    "id": "paddy-fertilizer-1",
+    "category": "crop_advisory",
+    "crop": "paddy",
+    "question": "Which fertilizer should I use for my paddy crop and when?",
+    "answer": "For paddy, apply urea in three split doses: 1/3 at transplanting, 1/3 at 20-25 days after transplanting (tillering stage), and 1/3 at 40-45 days (panicle initiation stage). Along with urea, apply the full dose of phosphorus (DAP) and half the potash at transplanting, with the remaining potash at panicle initiation."
+  },
+  {
+    "id": "paddy-pest-1",
+    "category": "crop_advisory",
+    "crop": "paddy",
+    "question": "How do I control stem borer pest in paddy?",
+    "answer": "For stem borer in paddy, monitor fields weekly. If more than 5% dead hearts are seen, apply a recommended granular insecticide like Cartap Hydrochloride 4G at 25 kg/ha, or spray Chlorantraniliprole as per label dosage. Avoid excess nitrogen, as it increases stem borer susceptibility."
+  },
+  {
+    "id": "cotton-fertilizer-1",
+    "category": "crop_advisory",
+    "crop": "cotton",
+    "question": "What is the fertilizer schedule for cotton?",
+    "answer": "For cotton, apply half the nitrogen and full phosphorus and potash as basal dose at sowing. Apply the remaining nitrogen in two split doses: at 30-35 days and at 60-65 days after sowing, ideally alongside irrigation."
+  },
+  {
+    "id": "cotton-sowing-1",
+    "category": "crop_advisory",
+    "crop": "cotton",
+    "question": "When is the best time to sow cotton?",
+    "answer": "Cotton sowing is best done at the onset of monsoon, typically between the last week of May and the first two weeks of June in most cotton-growing regions, once there is adequate soil moisture from the first good rains."
+  },
+  {
+    "id": "chilli-fertilizer-1",
+    "category": "crop_advisory",
+    "crop": "chilli",
+    "question": "What fertilizer dosage is recommended for chilli crop?",
+    "answer": "For chilli, apply well-decomposed farmyard manure before planting. Apply nitrogen in three splits: at planting, 30 days after planting, and 60 days after planting. Apply full phosphorus and potash as a basal dose at the time of transplanting."
+  },
+  {
+    "id": "chilli-pest-1",
+    "category": "crop_advisory",
+    "crop": "chilli",
+    "question": "How do I manage thrips and mites in chilli?",
+    "answer": "For thrips and mites in chilli, use yellow and blue sticky traps for monitoring. Spray a recommended miticide/insecticide such as Fipronil or Spiromesifen as per label dosage, rotating chemical groups every 2-3 sprays to avoid resistance. Avoid excess nitrogen, which increases susceptibility."
+  },
+  {
+    "id": "groundnut-sowing-1",
+    "category": "crop_advisory",
+    "crop": "groundnut",
+    "question": "What is the ideal sowing time and spacing for groundnut?",
+    "answer": "Groundnut is best sown at the start of the monsoon (June) for the kharif season, or in January-February for summer crop where irrigation is available. Recommended spacing is 30 cm between rows and 10 cm between plants for bunch varieties."
+  },
+  {
+    "id": "tomato-fertilizer-1",
+    "category": "crop_advisory",
+    "crop": "tomato",
+    "question": "What fertilizer schedule works best for tomato crop?",
+    "answer": "For tomato, apply full phosphorus and potash plus half the nitrogen as basal dose at transplanting. Apply remaining nitrogen in two equal splits at 30 and 45 days after transplanting. Adding calcium nitrate can help reduce blossom end rot in fruits."
+  },
+  {
+    "id": "pm-kisan-eligibility-1",
+    "category": "scheme",
+    "scheme": "PM-KISAN",
+    "question": "Am I eligible for the PM-Kisan scheme and what does it provide?",
+    "answer": "PM-KISAN provides eligible farmer families with Rs. 6,000 per year in three equal installments of Rs. 2,000 directly to their bank account. Most landholding farmer families are eligible, subject to exclusion criteria such as institutional landholders, income-tax payers, and government employees above a certain rank. To check eligibility and apply, visit the official PM-KISAN portal (pmkisan.gov.in) or a Common Service Centre (CSC) with your land records, Aadhaar card, and bank account details."
+  },
+  {
+    "id": "pm-kisan-apply-1",
+    "category": "scheme",
+    "scheme": "PM-KISAN",
+    "question": "How do I apply for PM-Kisan?",
+    "answer": "To apply for PM-KISAN, go to pmkisan.gov.in and use the 'New Farmer Registration' option, or visit your nearest Common Service Centre (CSC). You will need your Aadhaar number, bank account details, and land ownership records. After submission, your local revenue officer verifies the land records before approval."
+  },
+  {
+    "id": "pm-kisan-status-1",
+    "category": "scheme",
+    "scheme": "PM-KISAN",
+    "question": "How do I check my PM-Kisan payment status?",
+    "answer": "To check your PM-KISAN payment status, visit pmkisan.gov.in, click on 'Beneficiary Status' under the Farmers Corner, and enter your Aadhaar number, mobile number, or bank account number. This shows whether your latest installment has been processed."
+  },
+  {
+    "id": "crop-insurance-1",
+    "category": "scheme",
+    "scheme": "PMFBY",
+    "question": "What is the Pradhan Mantri Fasal Bima Yojana and how do I enroll?",
+    "answer": "Pradhan Mantri Fasal Bima Yojana (PMFBY) is a crop insurance scheme that protects farmers against crop loss from natural calamities, pests, and diseases. Farmers pay a low premium (2% for kharif, 1.5% for rabi crops), and the rest is subsidized by the government. Enrollment is usually done through banks at the time of taking a crop loan, or voluntarily through the PMFBY portal (pmfby.gov.in) or a nearby CSC before the enrollment deadline for each season."
+  },
+  {
+    "id": "msp-general-1",
+    "category": "market",
+    "question": "What is MSP and where can I check current MSP prices?",
+    "answer": "MSP (Minimum Support Price) is the guaranteed minimum price the government pays for certain crops, protecting farmers from price crashes. Current MSP rates for each crop and season are published on the Ministry of Agriculture's website and can also be checked at your local mandi or through the eNAM portal (enam.gov.in)."
+  }
+]
